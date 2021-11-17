@@ -1,6 +1,6 @@
 ### Hi there ⚡
 
-My name is Mikhail Rommulo from Brazil (🇧🇷), I'm a Typescript / Javascript developer, and a computer science student.
+My name is Mikhail Rommulo from Brazil (🇧🇷), I'm a FullStack Typescript / Javascript developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MikhailRommulo)](https://twitter.com/MikhailRommulo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-jesus-162b74190/)](https://www.linkedin.com/in/mikhail-jesus-162b74190)
